@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8bf5aceb-5448-4fe5-b974-4b2b860bd42d/deploy-status)](https://app.netlify.com/sites/react-storefront-starter/deploys)
+
 # react-storefront-starter-app
 
 Starter Next.js app for React Storefront 7+
